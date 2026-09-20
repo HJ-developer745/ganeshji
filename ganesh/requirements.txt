@@ -1,2 +1,2 @@
 # No external dependencies required
-pkg install python3-tkinter
+yt-dlp
